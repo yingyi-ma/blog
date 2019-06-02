@@ -1,0 +1,8 @@
+User-agent: * Allow: /
+Allow: /archives/
+Disallow: /vendors/
+Disallow: /categories/
+
+
+Sitemap: http://yingyi-ma.github.io/sitemap.xml
+Sitemap: http://yingyi-ma.github.io/baidusitemap.xml
